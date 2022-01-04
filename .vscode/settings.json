@@ -1,0 +1,12 @@
+{
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "mqtt_asdihsai",
+            "host": "m14.cloudmqtt.com",
+            "port": 12891,
+            "clientId": "vsmqtt_client",
+            "username": "vqlvmcfj",
+            "password": "Vzw6NIX4voxY"
+        }
+    ]
+}
