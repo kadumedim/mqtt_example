@@ -10,5 +10,5 @@
   "license": "ISC",
   "dependencies": {
     "mqtt": "^4.3.2"
-  }
+  } 
 }
